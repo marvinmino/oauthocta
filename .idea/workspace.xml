@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="574fc6da-c1c5-48d0-aaab-e666d4825053" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/client-app" beforeDir="false" afterPath="$PROJECT_DIR$/client-app" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client-app/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/client-app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client-app/src/main/java/OauthClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/client-app/src/main/java/OauthClient.java" afterDir="false" />
